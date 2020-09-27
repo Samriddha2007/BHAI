@@ -6,7 +6,7 @@ var time = 0;
 function preload(){
 back = loadImage("background.jpg");
 img1 = loadImage("bhai.png");
-img2 = loadImage("aunty.png");
+img2 = loadImage("Aunty.png");
 img3 = loadImage("cloud.png");
 img4 = loadImage("cloud2.png");
 img5 = loadImage("BhDD.png");
